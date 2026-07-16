@@ -1,6 +1,6 @@
 cask "kiji-privacy-proxy" do
-  version "1.6.1"
-  sha256 "e34fa6b9268df40deb1e58504f0b5870243d6b7027bf3b318019f265862279e1"
+  version "1.6.2"
+  sha256 "ba72323c434ea19b38267c168c2bde4d9009bb9c93ce3281c69d7b93b9ef4b06"
 
   url "https://github.com/dataiku/kiji-proxy/releases/download/v#{version}/Kiji-Privacy-Proxy-#{version}.dmg",
       verified: "github.com/dataiku/kiji-proxy/"
